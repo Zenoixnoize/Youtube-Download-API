@@ -19,7 +19,7 @@
     "Youtube Downloader"
   ],
   "author": "Zenoixnoize",
-  "license": "MIT",
+  "license": "CC0",
   "dependencies": {
      "jsdom": "^16.4.0",
     "lowdb": "^2.1.0",
