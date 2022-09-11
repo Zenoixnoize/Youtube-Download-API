@@ -1,0 +1,42 @@
+{
+  "name": "ytx-api",
+  "version": "1.0.0",
+  "description": "Youtube Video Downloader API ",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "yts",
+    "downloader",
+    "2022",
+    "THARINDU",
+    "ZENOI",
+    "API",
+    "node js",
+    "YT-api",
+    "Youtube Downloader"
+  ],
+  "author": "Zenoixnoize",
+  "license": "MIT",
+  "dependencies": {
+     "jsdom": "^16.4.0",
+    "lowdb": "^2.1.0",
+    "axios": "^0.24.0",
+    "chalk": "^4.1.2",
+    "node-fetch": "^2.6.1",
+    "yt-search": "^2.10.2"
+  },
+  "directories": {
+    "lib": "manifest" },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zenoixnoize/Youtube-Download-API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Zenoixnoize/Youtube-Download-API/issues"
+  },
+  "homepage": "https://github.com/Zenoixnoize/Youtube-Download-API#readme"
+}
